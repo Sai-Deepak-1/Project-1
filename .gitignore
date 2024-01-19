@@ -1,0 +1,30 @@
+# Virtual environment
+env/
+
+# Python cache files
+__pycache__/
+
+# IDE files
+.idea/
+.vscode/
+
+# Python bytecode
+*.pyc
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+static/
+
+# Tailwind CSS
+.tailwindcss/
+
+# Node modules
+node_modules/
+
+# Optional: Local environment variables
+.env
